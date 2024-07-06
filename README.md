@@ -6,4 +6,4 @@ Conclusión general: Aunque los resultados de accuracy parecen buenos, lo cierto
 
 ¡Gracias!
 
-Sara
+Sara Díaz
